@@ -8,7 +8,9 @@ Website: http://github.com/CarpeNoctem/ReRoute
 ------------
 Description:
 ------------
-ReRoute is a plugin for the Pidgin instant messaging client, or any other libpurple client, that automatically takes messages sent to you and sends them to someone else on your contacts list. This is configurable, and you can set up multiple routes. However a route may only go from one contact to a single other contact, rather than multiple contacts.
+ReRoute is a plugin for the Pidgin instant messaging client, or any other libpurple client, that automatically takes messages sent to you and sends them to someone else on your contacts list. This is configurable, and you can set up multiple routes. However a route may only go from one contact to a single other contact, rather than multiple contacts.  
+
+![ReRoute in action!](https://raw.github.com/CarpeNoctem/ReRoute/master/reroute-in-action.gif)
 
 -------------------
 How to use ReRoute:
@@ -42,7 +44,3 @@ Feedback:
 ---------
 If you are using a libpurple chat client other than Pidgin, or an OS other than Windows, I'd love to hear from you. Even if you do not fit into this category, feel free to mention me on GitHub.
 
-----------
-Donations:
-----------
-This plugin is FREE! You can find it and many other project of mine (also free) at http://github.com/CarpeNoctem
